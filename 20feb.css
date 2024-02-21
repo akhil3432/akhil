@@ -1,0 +1,54 @@
+* {
+    padding: 3px;
+    margin: 4px;
+    border: 0px;
+}
+
+#img {
+    display: flex;
+
+}
+
+
+
+#outerbox {
+    border: 5px solid red;
+    height: 400px;
+    width: 100vw;
+    display: flex;
+}
+
+#first {
+    border: 1px  black;
+    width: 200px;
+}
+
+#second {
+    border: 1px solid black;
+    width: 200px;
+    height: 400px;
+}
+
+#outerbox>div {
+    /* border: 1px   solid green; */
+    width: 100%;
+}
+
+#fo1{
+    border: 1px solid black;
+}
+#fo2{
+    border: 1px solid black;
+}
+#fir1{
+    border: 1px solid black;
+}
+#fir2{
+    border: 1px solid black;
+}
+#thi1{
+    border: 1px solid black;
+}
+#thi2{
+    border: 1px solid black;
+}
